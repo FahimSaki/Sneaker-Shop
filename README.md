@@ -3,7 +3,7 @@
 - │   ├── cart_item.dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Widget to display items in the cart
 - │   ├── shoe_tile.dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Widget to display individual shoe details
 - ├── models
-- │   ├── cart.dart             // Model to manage cart state
+- │   ├── cart.dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Model to manage cart state
 - │   ├── shoe.dart             // Model to represent a shoe
 - ├── pages
 - │   ├── home_page.dart        // Main navigation page
