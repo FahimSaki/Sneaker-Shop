@@ -1,4 +1,4 @@
-lib
+## lib
 ├── components
 │   ├── cart_item.dart        // Widget to display items in the cart
 │   ├── shoe_tile.dart        // Widget to display individual shoe details
