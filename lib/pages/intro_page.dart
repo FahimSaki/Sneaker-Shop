@@ -45,6 +45,16 @@ class IntroPage extends StatelessWidget {
               textAlign: TextAlign.center,
             ),
 
+            const SizedBox(height: 7),
+            // my logo
+            const Text(
+              '℗ by Fahim Saki',
+              style: TextStyle(
+                fontSize: 10,
+                color: Colors.black,
+              ),
+            ),
+
             const SizedBox(height: 48),
 
             // start button
