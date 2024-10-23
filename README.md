@@ -1,6 +1,6 @@
 ## File Structure
 - ├── components
-- │   ├── cart_item.dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Widget to display items in the cart
+- │   ├── cart_item.dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// Widget to display items in the cart
 - │   ├── shoe_tile.dart        // Widget to display individual shoe details
 - ├── models
 - │   ├── cart.dart             // Model to manage cart state
