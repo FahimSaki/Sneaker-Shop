@@ -28,7 +28,7 @@ Welcome to the Sneaker Shop app, a modern Flutter application designed to offer 
 
 
 ## 📱 Project View 
-<img src="https://raw.githubusercontent.com/FahimSaki/Sneaker-Shop/refs/heads/main/assets/images/Screenshot_1731179812.png" alt="Description of Image" width="200"/>  <img src="https://raw.githubusercontent.com/FahimSaki/Sneaker-Shop/refs/heads/main/assets/images/Screenshot_1731179815.png" alt="Description of Image" width="200"/> 
+<img src="https://raw.githubusercontent.com/FahimSaki/Sneaker-Shop/refs/heads/main/assets/images/Screenshot_1731179812.png" alt="Description of Image" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/FahimSaki/Sneaker-Shop/refs/heads/main/assets/images/Screenshot_1731179815.png" alt="Description of Image" width="200"/> 
 
 
 
